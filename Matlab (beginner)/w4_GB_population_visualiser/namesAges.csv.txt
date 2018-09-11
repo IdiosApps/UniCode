@@ -1,0 +1,8 @@
+name,age
+Andrew,38
+Rebecca,28
+Diana,19
+Katie,18
+Jonny,21
+Zad,20
+Fred,60

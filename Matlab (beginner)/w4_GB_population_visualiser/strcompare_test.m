@@ -1,0 +1,1 @@
+strcompare ('x(1)', '7')
